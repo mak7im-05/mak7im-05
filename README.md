@@ -47,6 +47,7 @@
 ### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-00BFFF.svg?style=for-the-badge&logo=OpenGL&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -73,6 +74,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Clion](https://img.shields.io/badge/clion-green?style=for-the-badge&logo=clion&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
