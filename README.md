@@ -63,7 +63,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![h2](https://img.shields.io/badge/h2-%59666C.svg?style=for-the-badge&logo=h2&logoColor=white)
-![postgres](https://img.shields.io/badge/postgresql-%blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![postgres](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
 
