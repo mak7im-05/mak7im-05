@@ -50,13 +50,12 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-00BFFF.svg?style=for-the-badge&logo=OpenGL&logoColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![hibernate](https://img.shields.io/badge/hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![minio](https://img.shields.io/badge/MinIO-c72e49?style=for-the-badge&logo=MinIO&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  <!-- Apache Kafka badge :contentReference[oaicite:0]{index=0} -->
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
@@ -64,6 +63,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![h2](https://img.shields.io/badge/h2-%59666C.svg?style=for-the-badge&logo=h2&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
 
@@ -72,15 +73,10 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
-
 ### &nbsp; &nbsp; &nbsp; 📀 Design Patterns
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Static Badge](https://img.shields.io/badge/mvc(s)-black?style=for-the-badge&labelColor=white)
+![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-Pattern-568203?style=for-the-badge)  <!-- статическая плашка Shields.io :contentReference[oaicite:1]{index=1} -->
+
 
