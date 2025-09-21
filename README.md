@@ -16,7 +16,7 @@
 
 <p align="left">Я студент университета ИТМО, направление: Информационный системы и технология</p>
 
-- 👨🏻‍💼 Second year student
+- 👨🏻‍💼 Third year student
 - 💻 Full-stack developer
 - ⚙️ Interested in back-end and self-development
 - 🏐 Volleybal player of students at the ITMO University
