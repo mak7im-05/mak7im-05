@@ -39,17 +39,9 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 📚 &nbsp;Frameworks, Libraries and ORMs
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Servlets](https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -60,23 +52,9 @@
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![postgres](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![h2](https://img.shields.io/badge/h2-%59666C.svg?style=for-the-badge&logo=h2&logoColor=white)
-![postgres](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 ![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### &nbsp; &nbsp; &nbsp; 📀 Design Patterns
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Static Badge](https://img.shields.io/badge/mvc(s)-black?style=for-the-badge&labelColor=white)
-![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-Pattern-568203?style=for-the-badge)  <!-- статическая плашка Shields.io :contentReference[oaicite:1]{index=1} -->
-
 
